@@ -5,7 +5,7 @@ ePDF Downloader is a simple Chrome extension that adds a floating download butto
 ![screenshot](image.png)
 
 ## Installation
-1. Download the extension ZIP file from the GitHub repository.
+1. [Download the extension ZIP](https://github.com/nahid18/journal-epdf-downloader/releases/download/v1.0.0/epdf-downloader.zip) file from the GitHub repository.
 2. Unzip the downloaded file.
 3. Open Google Chrome and go to [chrome://extensions/](chrome://extensions/).
 4. Turn on "Developer mode" (top right corner).
