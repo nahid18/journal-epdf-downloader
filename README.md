@@ -2,7 +2,7 @@
 
 A simple Chrome extension that adds a **floating download button** to webpages containing links with `/doi/reader/` or `/doi/epdf/`.
 
-![screenshot](image.png)
+![screenshot](screenshot.png)
 
 ## Installation
 1. [Download the extension ZIP](https://github.com/nahid18/journal-epdf-downloader/releases/download/v1.0.0/epdf-downloader.zip) file from the GitHub repository.
@@ -27,6 +27,6 @@ A simple Chrome extension that adds a **floating download button** to webpages c
 Contributions are welcome! Feel free to open an issue or create a pull request on GitHub.
 
 ## License
-ePDF Downloader is licensed under the MIT License.
+ePDF Downloader is licensed under the **MIT License**.
 
 Thank you for using ePDF Downloader! If you have any questions or need support, please let us know in the Issues section. Enjoy easy PDF downloads!
