@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "ePDF Downloader",
+  "version": "1.0",
+  "description": "A Chrome extension to download PDF from ePDF links",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://*/*", "http://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["pdf.svg"],
+      "matches": ["https://*/*", "http://*/*"]
+    }
+  ],
+  "icons": {
+    "48": "download-icon.png"
+  }
+}
