@@ -1,6 +1,6 @@
 # ePDF Downloader
 
-A simple Chrome extension that adds a **floating download button** to webpages containing links with `/doi/reader/` or `/doi/epdf/`.
+A simple Chrome extension that adds a **floating download button** to web pages containing links with `/doi/reader/` or `/doi/epdf/` in source html like in **ASM** or **Willey** journal article pages
 
 ![screenshot](screenshot.png)
 
