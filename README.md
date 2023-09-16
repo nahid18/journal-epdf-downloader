@@ -13,7 +13,7 @@ A simple Chrome extension that adds a **floating download button** to webpages c
 6. ePDF Downloader will be added to your Chrome browser.
 
 ## Usage
-1. Visit a webpage that has paper links with either `/doi/reader/` or `doi/epdf/`.
+1. Visit a webpage that has paper links with either `/doi/reader/` or `doi/epdf/`. Example: **Willey** or **ASM** journals.
 2. Look for the floating download button in the bottom right corner.
 3. If a DOI link with the specified pattern is detected, the button will appear.
 4. Click the button to open a new tab and download the PDF.
